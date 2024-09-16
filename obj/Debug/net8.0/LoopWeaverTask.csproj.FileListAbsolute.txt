@@ -1,0 +1,14 @@
+/Users/gayathrigeetha/Lexicon-Training/LoopWeaverTask/bin/Debug/net8.0/LoopWeaverTask
+/Users/gayathrigeetha/Lexicon-Training/LoopWeaverTask/bin/Debug/net8.0/LoopWeaverTask.deps.json
+/Users/gayathrigeetha/Lexicon-Training/LoopWeaverTask/bin/Debug/net8.0/LoopWeaverTask.runtimeconfig.json
+/Users/gayathrigeetha/Lexicon-Training/LoopWeaverTask/bin/Debug/net8.0/LoopWeaverTask.dll
+/Users/gayathrigeetha/Lexicon-Training/LoopWeaverTask/bin/Debug/net8.0/LoopWeaverTask.pdb
+/Users/gayathrigeetha/Lexicon-Training/LoopWeaverTask/obj/Debug/net8.0/LoopWeaverTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gayathrigeetha/Lexicon-Training/LoopWeaverTask/obj/Debug/net8.0/LoopWeaverTask.AssemblyInfoInputs.cache
+/Users/gayathrigeetha/Lexicon-Training/LoopWeaverTask/obj/Debug/net8.0/LoopWeaverTask.AssemblyInfo.cs
+/Users/gayathrigeetha/Lexicon-Training/LoopWeaverTask/obj/Debug/net8.0/LoopWeaverTask.csproj.CoreCompileInputs.cache
+/Users/gayathrigeetha/Lexicon-Training/LoopWeaverTask/obj/Debug/net8.0/LoopWeaverTask.dll
+/Users/gayathrigeetha/Lexicon-Training/LoopWeaverTask/obj/Debug/net8.0/refint/LoopWeaverTask.dll
+/Users/gayathrigeetha/Lexicon-Training/LoopWeaverTask/obj/Debug/net8.0/LoopWeaverTask.pdb
+/Users/gayathrigeetha/Lexicon-Training/LoopWeaverTask/obj/Debug/net8.0/LoopWeaverTask.genruntimeconfig.cache
+/Users/gayathrigeetha/Lexicon-Training/LoopWeaverTask/obj/Debug/net8.0/ref/LoopWeaverTask.dll
