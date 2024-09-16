@@ -5,6 +5,7 @@ using Microsoft.VisualBasic;
 
 public class TaskController{
 
+    //CASE 1: 
     //Check the program individual price with the given age in the user input
     public void showProgramPriceByAge(){
         int age = getAgeFromUser();
@@ -29,6 +30,7 @@ public class TaskController{
         return age;
     }
 
+    //CASE 2:
     //Calculate and display the total price for the group of persons that value have entered in the user input
     public void calculateTotalPrice()
     {
@@ -65,7 +67,8 @@ public class TaskController{
         }
         return calculateTotalPrice;
     }
-
+    
+    //Return the price with age apporapiate
     private int totalPriceByAge(int age)
     {
         if ( age <= 5 ) // below 5 years old price
@@ -90,6 +93,7 @@ public class TaskController{
         }
     }
 
+    //CASE 3:
     //Get and display the text ten times which is entered by the user using for loop to iterate the text
     public void loopIteration()
     {
@@ -105,6 +109,8 @@ public class TaskController{
         Console.WriteLine("\n");
     }
 
+
+    //CASE 4:
     //Get the sentence from the user and print the third word from the given sentence
     public void fetchThirdWord()
     {
